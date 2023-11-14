@@ -34,6 +34,7 @@ Application is built using Python,HTML/CSS/JS,Bootstrap
 
 <img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-50-55.png'>
 
+
 <img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-51-37.png'>
 
 <img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-51-48.png'>
