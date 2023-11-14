@@ -23,7 +23,6 @@ Click here to visit our [Web-Application](https://sign-language-classification.h
 Application is built using Python,HTML/CSS/JS,Bootstrap
 
 ### Poster
-
 <img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Poster/poster.jpeg'>
 
 
