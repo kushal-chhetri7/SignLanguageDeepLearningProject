@@ -2,6 +2,8 @@
 
 Web-application **"Sign-language-classification"** is buit for ITS307 Data Analytics group project by Sign-Team. This application is built to utilize data analytics and machine learning tools to extract features, pre-process, clean, analyze, interpret and visualize from online available structured datasets to derive a conclusion regarding the information they hold and predict the future.
 
+
+
 ### Why Sign language classification 
 
 1. Poor communication between normal people and people who have disability in hearing and listening
